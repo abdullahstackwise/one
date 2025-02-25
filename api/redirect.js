@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://pinkpetals.pk/collections/new-arrivals/products/amber-gold?variant=46468169203935";
+    const whitePageURL = "https://thebagshop-1804.myshopify.com/products/50l-large-capacity-man-army-tactical-backpacks-military-assault-bags-outdoor-3p-edc-molle-pack-for-trekking-camping-hunting-bag";
     const blackPageURL = "https://suqiqwopzxkasuewq.myfunnelish.com/imbassd-1735826861886254";
   
     // Parse the UTM parameters from the request URL
